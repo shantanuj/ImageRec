@@ -1,0 +1,10 @@
+ve/lib/
+ve/bin/
+ve/inception_v3_weights_tf_dim_ordering_tf_kernels.h5
+ve/include/
+ve/lfw-funneled.tgz
+ve/list_eval_partition.txt
+ve/local/
+ve/share/
+ve/vgg16.h5
+ve/vgg16tf.h5
